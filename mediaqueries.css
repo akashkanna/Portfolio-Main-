@@ -82,7 +82,9 @@
     font-size: 1.5rem;
   }
   .nav-links {
-    flex-direction: column;
+    flex-wrap: wrap;
+    margin-top: 15%;
+  
     gap: 0.5rem;
     text-align: center;
   }
@@ -100,4 +102,5 @@
   .text-container {
     text-align: justify;
   }
+ 
 }
