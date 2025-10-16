@@ -19,10 +19,10 @@ const Education = () => {
     },
     {
       degree: "Higher Secondary Education",
-      institution: "Secondary School",
-      period: "Completed",
+      institution: "Walter Scudder Higher Secondary School",
+      period: "2022",
       icon: School,
-      description: "Built a solid academic foundation with a focus on mathematics and computer science, preparing for a career in technology.",
+      description: "Built a solid academic foundation with a focus on commerce and computer application, preparing for a career in technology.",
     },
   ];
 

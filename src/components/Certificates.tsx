@@ -7,7 +7,7 @@ const Certificates = () => {
       title: "National Level Disaster Management",
       issuer: "National Disaster Management Authority",
       description: "Completed comprehensive training on disaster preparedness, response, and management strategies",
-      date: "2024"
+      date: "2023"
     },
     {
       title: "Canva Bootcamp",
@@ -19,13 +19,13 @@ const Certificates = () => {
       title: "Prompt Injection Security",
       issuer: "AI Security Institute",
       description: "Understanding and preventing prompt injection vulnerabilities in AI systems",
-      date: "2024"
+      date: "2025"
     },
     {
       title: "Figma Bootcamp",
       issuer: "Figma Academy",
       description: "Professional UI/UX design and prototyping using Figma's advanced features",
-      date: "2024"
+      date: "2025"
     }
   ];
 
