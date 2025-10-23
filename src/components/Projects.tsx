@@ -33,8 +33,8 @@ const Projects = () => {
       description: "Curated collection of effective prompts for various AI tools and use cases",
       technologies: ["AI Tools", "Lovable", "React", "Lucide"],
       icon: <Leaf className="w-6 h-6" />,
-      github: "https://github.com/aknoobkutty/oilseed-ai-grow",
-      demo: "https://oilseed-ai-grow.lovable.app"
+      github: "https://github.com/akashkanna/oilseed-ai-grow-main",
+      demo: "https://oilseed-ai-platform.netlify.app/"
     }
   ];
 
