@@ -1,4 +1,4 @@
-import { ExternalLink, Github, Palette, Code, Brain, Leaf } from "lucide-react";
+import { ExternalLink, Github, Palette, Code, Brain, Leaf, Bot } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
 
@@ -27,6 +27,14 @@ const Projects = () => {
       icon: <Brain className="w-6 h-6" />,
       github: "https://github.com",
       demo: "#"
+    },
+    {
+      title: "AI Chatbot Gopal TU",
+      description: "AI-powerd chatbot they assist users to know about university",
+      technologies: ["vibe Coding", "HTML","CSS","JavaScript","Cursor"],
+      icon: <Bot className="w-6 h-6" />,
+      github: "https://github.com/akashkanna/Ai-chat-Gopal",
+      demo: "https://akashkanna.github.io/Ai-chat-Gopal/"
     },
     {
       title: "Oil Seed AI Platform",
