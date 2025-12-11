@@ -43,6 +43,14 @@ const Projects = () => {
       icon: <Leaf className="w-6 h-6" />,
       github: "https://github.com/akashkanna/oilseed-ai-grow-main",
       demo: "https://oilseed-ai-platform.netlify.app/"
+    },
+    {
+      title: "Iris Flower Classifier",
+      description: "This project aims to classify iris flowers Classification using ML algorithms",
+      technologies: ["Stremlit", "Scikit-Learn", "Python","Iris Dataset"],
+      icon: <Flower2 className="w-6 h-6" />,
+      github: "https://github.com/akashkanna/iris_flower_classifier_ML",
+      demo: "https://irisflowerclassifierak.streamlit.app/"
     }
   ];
 
