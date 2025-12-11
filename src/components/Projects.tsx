@@ -1,4 +1,4 @@
-import { ExternalLink, Github, Palette, Code, Brain, Leaf, Bot, Flower2 } from "lucide-react";
+import { ExternalLink, Github, Palette, Code, Brain, Leaf, Bot, Flower2, } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
 
