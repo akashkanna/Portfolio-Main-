@@ -1,4 +1,4 @@
-import { ExternalLink, Github, Palette, Code, Brain, Leaf, Bot, } from "lucide-react";
+import { ExternalLink, Github, Palette, Code, Brain, Leaf, Bot, Flower2 } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
 
@@ -48,7 +48,7 @@ const Projects = () => {
       title: "Iris Flower Classifier",
       description: "This project aims to classify iris flowers Classification using  algorithms",
       technologies: ["Stremlit", "Scikit-Learn", "Python","Iris Dataset"],
-      icon: <Leaf className="w-6 h-6" />,
+      icon: <Flower2 className="w-6 h-6" />,
       github: "https://github.com/akashkanna/iris_flower_classifier_ML",
       demo: "https://irisflowerclassifierak.streamlit.app/"
     }
