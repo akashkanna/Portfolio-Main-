@@ -17,7 +17,7 @@ const Projects = () => {
       description: "Comprehensive design system created in Figma with reusable components",
       technologies: ["Figma", "Design Tokens", "Component Library"],
       icon: <Palette className="w-6 h-6" />,
-      github: "https://github.com",
+      github: "https://github.com/akashkanna/",
       demo: "#"
     },
     {
@@ -25,13 +25,13 @@ const Projects = () => {
       description: "Curated collection of effective prompts for various AI tools and use cases",
       technologies: ["AI Tools", "Prompt Engineering", "Documentation"],
       icon: <Brain className="w-6 h-6" />,
-      github: "https://github.com",
+      github: "https://github.com/akashkanna/",
       demo: "#"
     },
     {
       title: "AI Chatbot Gopal TU",
       description: "AI-powerd chatbot they assist users to know about university",
-      technologies: ["vibe Coding", "HTML","CSS","JavaScript","Cursor"],
+      technologies: ["HTML", "CSS", "JavaScript", "Cursor"],
       icon: <Bot className="w-6 h-6" />,
       github: "https://github.com/akashkanna/Ai-chat-Gopal",
       demo: "https://akashkanna.github.io/Ai-chat-Gopal/"
