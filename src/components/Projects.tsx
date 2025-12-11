@@ -48,7 +48,7 @@ const Projects = () => {
       title: "Iris Flower Classifier",
       description: "This project aims to classify iris flowers Classification using ML algorithms",
       technologies: ["Stremlit", "Scikit-Learn", "Python","Iris Dataset"],
-      icon: <Flower2 className="w-6 h-6" />,
+      icon: <Flower className="w-6 h-6" />,
       github: "https://github.com/akashkanna/iris_flower_classifier_ML",
       demo: "https://irisflowerclassifierak.streamlit.app/"
     }
