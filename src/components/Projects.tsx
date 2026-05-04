@@ -1,4 +1,4 @@
-import { ExternalLink, Github, Palette, Code, Brain, Leaf, Bot, Flower2 } from "lucide-react";
+import { ExternalLink, Github, Palette, Code, Brain, Leaf, Bot, Flower2, Store } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
 
@@ -51,6 +51,22 @@ const Projects = () => {
       icon: <Flower2 className="w-6 h-6" />,
       github: "https://github.com/akashkanna/iris_flower_classifier_ML",
       demo: "https://irisflowerclassifierak.streamlit.app/"
+    },
+     {
+      title: "Amurtham Feeds",
+      description: "End to end supply chain platform, real time Inventory, supplier network, AI Demond Forecasting And Sustainability metrics-build for Tamil Nadu farmers",
+      technologies: ["TanStack", "Tailwind", "Lovable Cloud","Resend","Twilio"],
+      icon: <Leaf className="w-6 h-6" />,
+      github: "https://github.com/aknoobkutty/amrutham-feeds/",
+      demo: "https://amrutham-feeds.lovable.app/"
+    },
+    {
+      title: "Smart Store Managment",
+      description: "The app loads from the browser cache (Service Worker / PWA).All operations save to local storage / IndexedDB first. When the internet returns, data is automatically pushed to Supabase.",
+      technologies: ["React 19 + TypeScript + Vite 7", "TanStack Router", "PostgreSQL","Tailwind CSS v4 + shadcn/ui","Twilio","Lovable Cloud","Cloudflare", ],
+      icon: <Store className="w-6 h-6" />,
+      github: "https://github.com/aknoobkutty/santhosh-bills-smart",
+      demo: "https://santhosh-bills-smart.lovable.app/"
     }
   ];
 
