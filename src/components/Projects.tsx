@@ -53,12 +53,12 @@ const Projects = () => {
       demo: "https://irisflowerclassifierak.streamlit.app/"
     },
      {
-      title: "Amurtham Feeds",
+      title: "Astrum Feeds",
       description: "End to end supply chain platform, real time Inventory, supplier network, AI Demond Forecasting And Sustainability metrics-build for Tamil Nadu farmers",
       technologies: ["TanStack", "Tailwind", "Lovable Cloud","Resend","Twilio"],
       icon: <Leaf className="w-6 h-6" />,
-      github: "https://github.com/aknoobkutty/amrutham-feeds/",
-      demo: "https://amrutham-feeds.lovable.app/"
+      github: "https://github.com/aknoobkutty/astrum-feeds/",
+      demo: "https://astrum-feeds.lovable.app/"
     },
     {
       title: "Smart Store Managment",
